@@ -1,0 +1,41 @@
+# --- macOS system files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Python cache & compiled files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+venv/
+.env/
+.venv/
+venvSofia/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Environment & secrets ---
+.env
+*.env
+
+# --- Kaggle datasets & large data ---
+data/
+notebooks/data/
+datasets/
+*.csv
+*.zip
+
+# --- Logs & temp files ---
+*.log
+*.tmp
+
+# --- VSCode & IDE settings ---
+.vscode/
+.idea/
+
+# --- OS or package manager metadata ---
+Thumbs.db
+.DS_Store
