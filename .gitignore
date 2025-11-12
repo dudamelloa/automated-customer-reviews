@@ -25,6 +25,7 @@ venvSofia/
 data/
 notebooks/data/
 datasets/
+outputs/
 *.csv
 *.zip
 
